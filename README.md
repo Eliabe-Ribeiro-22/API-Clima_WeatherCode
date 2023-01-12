@@ -14,5 +14,6 @@ Este projeto foi estudado no curso de Desenvolvimento Web na escola Code Univers
 - JSX
 - Api (http://api.weatherapi.com/v1)
 - Axios
-- Css
-- JavaScript 
+- JavaScript
+- CSS
+- HTML
